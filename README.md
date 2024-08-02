@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aiji3107
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning React JS, Web Dev
+- 🌱 I’m currently learning React JS, Next JS Web Dev
 - 📫 Reach me on instagram @aiji3107_
 
 <!---
